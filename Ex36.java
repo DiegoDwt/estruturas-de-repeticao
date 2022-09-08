@@ -12,7 +12,7 @@ public class Ex36 {
 		do {
 			System.out.println("Digite seu voto");
 			System.out.println("1-Claudio");
-			System.out.println("2-Claudioa");
+			System.out.println("2-Claudia");
 			System.out.println("3-Claudinho");
 			System.out.println("4-Clauder");
 			System.out.println("5-Nulo");
